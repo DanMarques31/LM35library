@@ -1,0 +1,2 @@
+LM35Temperature	KEYWORD1
+readTemperature	KEYWORD2
